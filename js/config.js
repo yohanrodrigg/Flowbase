@@ -1,0 +1,1 @@
+window.FLOWBASE_CONFIG = { SUPABASE_URL: 'https://raalcekbgzonwnaurfri.supabase.co', SUPABASE_ANON_KEY: 'sb_publishable_fv0KZdNIYj13hhD2nu-vPg_MNjgkEkV' };
